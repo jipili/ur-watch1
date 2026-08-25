@@ -184,7 +184,7 @@ def send_email(subject, body):
     host = os.environ["SMTP_HOST"]
     port = int(os.environ.get("SMTP_PORT") or "587")
     user = os.environ["SMTP_USER"]
-    password = os.environ["SMTP_PASS"]
+    password = "".join(os.environ["SMTP_PASS"].split())
     to_addrs = [a.strip() for a in re.split(r"[,\n]+", os.environ.get("NOTIFY_TO") or user) if a.strip()]
 
     msg = MIMEText(body, "plain", "utf-8")
