@@ -214,17 +214,16 @@ def send_email(subject, body):
 
 def format_entry(prop, room, static_info):
     pref_label = "東京都" if prop["pref"] == "tokyo" else "神奈川県"
-    pet = "Pet-friendly" if static_info["pet_friendly"] else "Not confirmed pet-friendly"
+    pet = "🐾 Pet-friendly" if static_info["pet_friendly"] else "🚫 Pet policy not confirmed"
     return (
-        f"■ {prop['name']} ({pref_label})\n"
-        f"  Address:   {static_info['address']}\n"
-        f"  Station:   {static_info['station']}\n"
-        f"  Pet policy:{pet}\n"
-        f"  Room type: {clean_text(room.get('type')) or '?'}\n"
-        f"  Size:      {clean_text(room.get('floorspace')) or '?'}\n"
-        f"  Rent:      {clean_text(room.get('rent')) or '?'} (common fee {clean_text(room.get('commonfee')) or '?'})\n"
-        f"  Floor:     {clean_text(room.get('floor')) or '?'}\n"
-        f"  Listing:   {prop['url']}\n"
+        f"🏢 {prop['name']} ({pref_label})\n"
+        f"📍 {static_info['address']}\n"
+        f"🚉 {static_info['station']}\n"
+        f"{pet}\n"
+        f"🚪 {clean_text(room.get('type')) or '?'}   📐 {clean_text(room.get('floorspace')) or '?'}   🏬 {clean_text(room.get('floor')) or '?'}\n"
+        f"💴 {clean_text(room.get('rent')) or '?'} (common fee {clean_text(room.get('commonfee')) or '?'})\n"
+        f"🔗 {prop['url']}\n"
+        f"――――――――――――――――――――\n"
     )
 
 
@@ -286,11 +285,11 @@ def main():
 
     save_json(STATIC_CACHE_FILE, static_cache)
 
-    body = f"{len(newly_vacant)} new UR vacancy(ies) found:\n\n" + "\n".join(entries)
+    body = f"🆕 {len(newly_vacant)} new UR vacancy(ies) found:\n\n" + "\n".join(entries)
     print(body)
 
     try:
-        send_email(f"UR新着空室 {len(newly_vacant)}件", body)
+        send_email(f"🆕 UR New Vacancies: {len(newly_vacant)} found", body)
         print("Email sent.")
     except Exception as e:
         print(f"! Failed to send email: {e}", file=sys.stderr)
