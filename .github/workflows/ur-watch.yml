@@ -1,0 +1,42 @@
+name: UR vacancy watch
+
+on:
+  schedule:
+    # Every 15 minutes. GitHub's cron scheduler doesn't guarantee exact
+    # timing (it can slip a few minutes under load), but this is as
+    # close to real-time as a free scheduled job gets.
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}  # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write  # needed so the workflow can commit state.json back
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run checker
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          NOTIFY_TO: ${{ secrets.NOTIFY_TO }}
+        run: python check_ur.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "ur-watch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state.json property_static.json
+          git diff --cached --quiet || git commit -m "Update vacancy state [skip ci]"
+          git push

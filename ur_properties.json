@@ -1,0 +1,3794 @@
+[
+  {
+    "name": "神田小川町ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "382",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3820.html"
+  },
+  {
+    "name": "晴海四丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "186",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1860.html"
+  },
+  {
+    "name": "月島一丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "217",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2170.html"
+  },
+  {
+    "name": "晴海アイランド トリトンスクエアビュープラザ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "563",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5630.html"
+  },
+  {
+    "name": "晴海アイランド トリトンスクエアガーデンプラザ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "569",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5690.html"
+  },
+  {
+    "name": "アーバンライフ月島駅前イースト",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "587",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5870.html"
+  },
+  {
+    "name": "晴海アイランド トリトンスクエアアーバンタワー",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "641",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6410.html"
+  },
+  {
+    "name": "ムーンアイランドタワー",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "653",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6530.html"
+  },
+  {
+    "name": "ラ・ヴェール明石町",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "678",
+    "shikibetu": "1",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6781.html"
+  },
+  {
+    "name": "ベイシティ晴海スカイリンクタワー",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "710",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7100.html"
+  },
+  {
+    "name": "勝どきビュータワー",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "714",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7140.html"
+  },
+  {
+    "name": "コラム南青山",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "415",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4150.html"
+  },
+  {
+    "name": "デュプレ芝浦",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "492",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4920.html"
+  },
+  {
+    "name": "哲学堂公園ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "400",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4000.html"
+  },
+  {
+    "name": "エステート北新宿",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "402",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4020.html"
+  },
+  {
+    "name": "本郷真砂アーバンハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "398",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3980.html"
+  },
+  {
+    "name": "エルアージュ小石川",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "631",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6310.html"
+  },
+  {
+    "name": "シャレール本駒込",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "691",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6910.html"
+  },
+  {
+    "name": "笹塚駅前",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "322",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3220.html"
+  },
+  {
+    "name": "シャレール恵比寿",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "716",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7160.html"
+  },
+  {
+    "name": "ビオトープしたや",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "489",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4890.html"
+  },
+  {
+    "name": "アクシス台東",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "635",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6350.html"
+  },
+  {
+    "name": "コンフォール根岸",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "715",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7150.html"
+  },
+  {
+    "name": "立花一丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "255",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2550.html"
+  },
+  {
+    "name": "八広五丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "306",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3060.html"
+  },
+  {
+    "name": "曳舟駅前プラザ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "404",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4040.html"
+  },
+  {
+    "name": "リバーピア吾妻橋 ライフタワー",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "444",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4440.html"
+  },
+  {
+    "name": "イーストコア曳舟二番館",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "708",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7080.html"
+  },
+  {
+    "name": "亀戸二丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "166",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1660.html"
+  },
+  {
+    "name": "大島四丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "178",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1780.html"
+  },
+  {
+    "name": "大島六丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "192",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1920.html"
+  },
+  {
+    "name": "木場二丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "200",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2000.html"
+  },
+  {
+    "name": "大島七丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "250",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2500.html"
+  },
+  {
+    "name": "福住一丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "266",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2660.html"
+  },
+  {
+    "name": "北砂五丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "282",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2820.html"
+  },
+  {
+    "name": "北砂七丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "294",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2940.html"
+  },
+  {
+    "name": "豊洲四丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "320",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3200.html"
+  },
+  {
+    "name": "東陽パークサイドハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "325",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3250.html"
+  },
+  {
+    "name": "木場公園三好住宅",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "345",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3450.html"
+  },
+  {
+    "name": "東大島駅前ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "346",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3460.html"
+  },
+  {
+    "name": "木場公園平野住宅",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "357",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3570.html"
+  },
+  {
+    "name": "木場三丁目パークハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "386",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3860.html"
+  },
+  {
+    "name": "木場公園平野三丁目ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "395",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3950.html"
+  },
+  {
+    "name": "ヴェッセル木場南",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "582",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5820.html"
+  },
+  {
+    "name": "シティコート大島",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "590",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5900.html"
+  },
+  {
+    "name": "アーバンライフ亀戸",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "596",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5960.html"
+  },
+  {
+    "name": "潮見駅前プラザ一番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "645",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6450.html"
+  },
+  {
+    "name": "潮見駅前プラザ二番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "646",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6460.html"
+  },
+  {
+    "name": "ラ・ヴェール東陽町",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "661",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6610.html"
+  },
+  {
+    "name": "イーストコモンズ清澄白河セントラルタワー",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "695",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6950.html"
+  },
+  {
+    "name": "南千住七丁目ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "429",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4290.html"
+  },
+  {
+    "name": "アンサンブル宮地",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "432",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4320.html"
+  },
+  {
+    "name": "リバーハープタワー南千住",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "624",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6240.html"
+  },
+  {
+    "name": "リバーハープコート南千住",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "663",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6630.html"
+  },
+  {
+    "name": "サンマークシティ日暮里ステーションポートタワー",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "704",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7040.html"
+  },
+  {
+    "name": "コンフォール町屋",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "718",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7180.html"
+  },
+  {
+    "name": "花畑",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "117",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1170.html"
+  },
+  {
+    "name": "竹の塚第一",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "130",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1300.html"
+  },
+  {
+    "name": "竹の塚第一アネックス",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "130",
+    "shikibetu": "1",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1301.html"
+  },
+  {
+    "name": "竹の塚第二",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "131",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1310.html"
+  },
+  {
+    "name": "竹の塚第二アネックス",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "131",
+    "shikibetu": "1",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1311.html"
+  },
+  {
+    "name": "竹の塚第三",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "137",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1370.html"
+  },
+  {
+    "name": "竹の塚第三アネックス",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "137",
+    "shikibetu": "1",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1371.html"
+  },
+  {
+    "name": "栗原",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "160",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1600.html"
+  },
+  {
+    "name": "日の出町",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "164",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1640.html"
+  },
+  {
+    "name": "江北六丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "216",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2160.html"
+  },
+  {
+    "name": "新田二丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "276",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2760.html"
+  },
+  {
+    "name": "大谷田一丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "281",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2810.html"
+  },
+  {
+    "name": "リバーサイド桜木",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "334",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3340.html"
+  },
+  {
+    "name": "アーバンライフ西新井",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "532",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5320.html"
+  },
+  {
+    "name": "フレール西新井第一",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "566",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5660.html"
+  },
+  {
+    "name": "フレール西新井第二",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "642",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6420.html"
+  },
+  {
+    "name": "ハートアイランド新田一番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "674",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6740.html"
+  },
+  {
+    "name": "ハートアイランド新田二番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "681",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6810.html"
+  },
+  {
+    "name": "ハートアイランド新田三番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "698",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6980.html"
+  },
+  {
+    "name": "パークタウン東綾瀬",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "700",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7000.html"
+  },
+  {
+    "name": "フレール西新井中央公園",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "705",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7050.html"
+  },
+  {
+    "name": "ハートアイランド新田四番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "712",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7120.html"
+  },
+  {
+    "name": "金町駅前",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "165",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1650.html"
+  },
+  {
+    "name": "東四ツ木二丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "264",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2640.html"
+  },
+  {
+    "name": "東四ツ木二丁目第二",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "285",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2850.html"
+  },
+  {
+    "name": "青戸第三",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "286",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2860.html"
+  },
+  {
+    "name": "金町第二",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "295",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2950.html"
+  },
+  {
+    "name": "青戸第四",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "296",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2960.html"
+  },
+  {
+    "name": "金町五丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "307",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3070.html"
+  },
+  {
+    "name": "青戸第五",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "319",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3190.html"
+  },
+  {
+    "name": "西新小岩リバーハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "335",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3350.html"
+  },
+  {
+    "name": "エステート東新小岩",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "342",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3420.html"
+  },
+  {
+    "name": "エステート堀切",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "372",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3720.html"
+  },
+  {
+    "name": "エステート東堀切",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "373",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3730.html"
+  },
+  {
+    "name": "メゾン堀切七丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "393",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3930.html"
+  },
+  {
+    "name": "メゾン堀切八丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "394",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3940.html"
+  },
+  {
+    "name": "すまいる亀有",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "448",
+    "shikibetu": "1",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4481.html"
+  },
+  {
+    "name": "青戸第一",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "491",
+    "shikibetu": "1",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4911.html"
+  },
+  {
+    "name": "アーバンライフ東新小岩",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "502",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5020.html"
+  },
+  {
+    "name": "アクシス東四つ木",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "584",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5840.html"
+  },
+  {
+    "name": "金町第一",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "640",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6400.html"
+  },
+  {
+    "name": "青戸第二",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "668",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6680.html"
+  },
+  {
+    "name": "小島町二丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "254",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2540.html"
+  },
+  {
+    "name": "エステート篠崎（下篠崎町）",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "277",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2770.html"
+  },
+  {
+    "name": "船堀一丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "309",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3090.html"
+  },
+  {
+    "name": "葛西クリーンタウン 清新プラザ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "348",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3480.html"
+  },
+  {
+    "name": "葛西クリーンタウン 清新南ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "362",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3620.html"
+  },
+  {
+    "name": "エステート一之江（エステート松江）",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "380",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3800.html"
+  },
+  {
+    "name": "船堀六丁目パークハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "396",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3960.html"
+  },
+  {
+    "name": "小松川グリーンタウン セーラ小松川",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "442",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4420.html"
+  },
+  {
+    "name": "大井六丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "183",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1830.html"
+  },
+  {
+    "name": "品川八潮パークタウン 潮路北第二ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "355",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3550.html"
+  },
+  {
+    "name": "品川八潮パークタウン 潮路南第一ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "364",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3640.html"
+  },
+  {
+    "name": "品川八潮パークタウン 潮路中央ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "381",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3810.html"
+  },
+  {
+    "name": "コンフォール品川西大井",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "722",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7220.html"
+  },
+  {
+    "name": "恵比寿ビュータワー",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "518",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5180.html"
+  },
+  {
+    "name": "中目黒ゲートタウンハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "648",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6480.html"
+  },
+  {
+    "name": "中目黒アトラスタワー",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "709",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7090.html"
+  },
+  {
+    "name": "南六郷二丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "196",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1960.html"
+  },
+  {
+    "name": "大森中二丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "203",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2030.html"
+  },
+  {
+    "name": "南六郷一丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "291",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2910.html"
+  },
+  {
+    "name": "蒲田本町一丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "311",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3110.html"
+  },
+  {
+    "name": "蒲田駅前ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "333",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3330.html"
+  },
+  {
+    "name": "大森南二丁目ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "389",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3890.html"
+  },
+  {
+    "name": "パティオ新蒲田三丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "443",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4430.html"
+  },
+  {
+    "name": "エステート池上",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "464",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4640.html"
+  },
+  {
+    "name": "シャレール糀谷",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "534",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5340.html"
+  },
+  {
+    "name": "シャレール新蒲田",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "548",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5480.html"
+  },
+  {
+    "name": "アミティ大森東",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "554",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5540.html"
+  },
+  {
+    "name": "アミティ南六郷",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "583",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5830.html"
+  },
+  {
+    "name": "希望ヶ丘",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "234",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2340.html"
+  },
+  {
+    "name": "上馬二丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "240",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2400.html"
+  },
+  {
+    "name": "エステート千歳希望ヶ丘【シルバーピア（高齢者向け住宅）】",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "456",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4560.html"
+  },
+  {
+    "name": "成城通りパークウエスト",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "460",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4600.html"
+  },
+  {
+    "name": "経堂赤堤通り",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "500",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5000.html"
+  },
+  {
+    "name": "シティハイツ烏山",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "517",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5170.html"
+  },
+  {
+    "name": "世田谷通りシティハイツ若林",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "522",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5220.html"
+  },
+  {
+    "name": "フレール西経堂",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "544",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5440.html"
+  },
+  {
+    "name": "スクエアー世田谷桜丘",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "559",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5590.html"
+  },
+  {
+    "name": "シティコート世田谷給田",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "578",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5780.html"
+  },
+  {
+    "name": "アクティ三軒茶屋",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "647",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6470.html"
+  },
+  {
+    "name": "シティコート上馬",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "655",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6550.html"
+  },
+  {
+    "name": "シティコート二子玉川",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "657",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6570.html"
+  },
+  {
+    "name": "芦花公園",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "671",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6710.html"
+  },
+  {
+    "name": "シャレール成城",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "676",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6760.html"
+  },
+  {
+    "name": "アクティ芦花公園",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "692",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6920.html"
+  },
+  {
+    "name": "野方",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "042",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_0420.html"
+  },
+  {
+    "name": "コンフォール中野新橋",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "720",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7200.html"
+  },
+  {
+    "name": "プロムナード荻窪",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "687",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6870.html"
+  },
+  {
+    "name": "シャレール荻窪",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "713",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7130.html"
+  },
+  {
+    "name": "練馬北町一丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "238",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2380.html"
+  },
+  {
+    "name": "むつみ台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "241",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2410.html"
+  },
+  {
+    "name": "光が丘パークタウン 公園南",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "350",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3500.html"
+  },
+  {
+    "name": "光が丘パークタウン 大通り南",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "369",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3690.html"
+  },
+  {
+    "name": "光が丘パークタウン いちょう通り八番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "391",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3910.html"
+  },
+  {
+    "name": "光が丘パークタウン 四季の香弐番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "410",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4100.html"
+  },
+  {
+    "name": "光が丘パークタウン プロムナード十番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "435",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4350.html"
+  },
+  {
+    "name": "光が丘パークタウン 大通り中央",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "455",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4550.html"
+  },
+  {
+    "name": "アーバンライフゆりの木通り東",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "459",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4590.html"
+  },
+  {
+    "name": "グリーンプラザ高松＜光が丘＞",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "465",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4650.html"
+  },
+  {
+    "name": "パークサイド石神井",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "525",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5250.html"
+  },
+  {
+    "name": "にしき平和台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "535",
+    "shikibetu": "1",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5351.html"
+  },
+  {
+    "name": "大泉学園ゆめりあタワー",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "656",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6560.html"
+  },
+  {
+    "name": "目白",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "054",
+    "shikibetu": "1",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_0541.html"
+  },
+  {
+    "name": "北大塚二丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "297",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2970.html"
+  },
+  {
+    "name": "トレーフル東池袋",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "482",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4820.html"
+  },
+  {
+    "name": "ヴァンガードタワー",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "702",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7020.html"
+  },
+  {
+    "name": "コンフォール東池袋",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "721",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7210.html"
+  },
+  {
+    "name": "豊島五丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "232",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320.html"
+  },
+  {
+    "name": "王子五丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "267",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2670.html"
+  },
+  {
+    "name": "王子五丁目アネックス",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "267",
+    "shikibetu": "1",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2671.html"
+  },
+  {
+    "name": "赤羽北二丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "280",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800.html"
+  },
+  {
+    "name": "赤羽南一丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "308",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3080.html"
+  },
+  {
+    "name": "浮間三丁目エステート",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "327",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3270.html"
+  },
+  {
+    "name": "赤羽北二丁目ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "401",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4010.html"
+  },
+  {
+    "name": "神谷堀公園ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "420",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4200.html"
+  },
+  {
+    "name": "赤羽アボードⅡ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "539",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5390.html"
+  },
+  {
+    "name": "アーベイン神谷",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "571",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5710.html"
+  },
+  {
+    "name": "フレーシェル王子神谷",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "600",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6000.html"
+  },
+  {
+    "name": "ヌーヴェル赤羽台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "694",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6940.html"
+  },
+  {
+    "name": "シャレール西ヶ原",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "711",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7110.html"
+  },
+  {
+    "name": "志村一丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "119",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1190.html"
+  },
+  {
+    "name": "高島平",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "225",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2250.html"
+  },
+  {
+    "name": "成増二丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "251",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2510.html"
+  },
+  {
+    "name": "舟渡二丁目",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "310",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3100.html"
+  },
+  {
+    "name": "光が丘パークタウン ゆりの木通り北",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "347",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3470.html"
+  },
+  {
+    "name": "エステート西台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "356",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3560.html"
+  },
+  {
+    "name": "坂下けやき台ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "363",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3630.html"
+  },
+  {
+    "name": "グリーンプラザ加賀",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "403",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4030.html"
+  },
+  {
+    "name": "アンサンブル大山西",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "416",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4160.html"
+  },
+  {
+    "name": "エステート前野町",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "428",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4280.html"
+  },
+  {
+    "name": "新蓮根",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "476",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4760.html"
+  },
+  {
+    "name": "アミティ大山西町",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "623",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6230.html"
+  },
+  {
+    "name": "板橋ビュータワー",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "633",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6330.html"
+  },
+  {
+    "name": "光が丘パークタウン ゆりの木通り３３番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "680",
+    "shikibetu": "1",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6801.html"
+  },
+  {
+    "name": "館ヶ丘",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "260",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2600.html"
+  },
+  {
+    "name": "多摩ニュータウン 松が谷",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "272",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2720.html"
+  },
+  {
+    "name": "南原台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "299",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2990.html"
+  },
+  {
+    "name": "グリーンヒル寺田",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "337",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3370.html"
+  },
+  {
+    "name": "多摩ニュータウン シティハイツ南大沢",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "377",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3770.html"
+  },
+  {
+    "name": "八王子パークヒル 宇津木台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "408",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4080.html"
+  },
+  {
+    "name": "多摩ニュータウン ベルコリーヌ南大沢",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "434",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4340.html"
+  },
+  {
+    "name": "多摩ニュータウン ライブ長池 コリナス長池",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "449",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4490.html"
+  },
+  {
+    "name": "トワコート西八王子",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "493",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4930.html"
+  },
+  {
+    "name": "多摩ニュータウン ライブ長池 長池公園せせらぎ通り北",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "506",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5060.html"
+  },
+  {
+    "name": "多摩ニュータウン 南大沢学園二番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "507",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5070.html"
+  },
+  {
+    "name": "多摩ニュータウン ライブ長池 蓮生寺公園通り二番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "508",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5080.html"
+  },
+  {
+    "name": "多摩ニュータウン ライブ長池 長池公園せせらぎ通り南",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "510",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5100.html"
+  },
+  {
+    "name": "多摩ニュータウン 南大沢学園四番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "528",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5280.html"
+  },
+  {
+    "name": "グリーンヒル八王子南",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "555",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5550.html"
+  },
+  {
+    "name": "八王子みなみ野シティ ヴェルディールみなみ野西",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "564",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5640.html"
+  },
+  {
+    "name": "多摩ニュータウン 南大沢絹の道一番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "580",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5800.html"
+  },
+  {
+    "name": "八王子みなみ野シティ ヴェルディールふれあい通り",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "592",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5920.html"
+  },
+  {
+    "name": "多摩ニュータウン グランピア南大沢",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "625",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6250.html"
+  },
+  {
+    "name": "多摩ニュータウン ライブ長池 ビューコート別所",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "626",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6260.html"
+  },
+  {
+    "name": "ビュータワー八王子",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "664",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6640.html"
+  },
+  {
+    "name": "けやき台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "148",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1480.html"
+  },
+  {
+    "name": "立川幸町",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "213",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2130.html"
+  },
+  {
+    "name": "立川若葉町",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "214",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2140.html"
+  },
+  {
+    "name": "立川一番町東",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "367",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3670.html"
+  },
+  {
+    "name": "立川一番町東第二",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "406",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4060.html"
+  },
+  {
+    "name": "シティコート立川曙町",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "593",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5930.html"
+  },
+  {
+    "name": "プラザシティ立川",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "621",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6210.html"
+  },
+  {
+    "name": "アートアベニュー立川",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "644",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6440.html"
+  },
+  {
+    "name": "アーバンライフ立川",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "672",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6720.html"
+  },
+  {
+    "name": "武蔵野緑町パークタウン",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "545",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5450.html"
+  },
+  {
+    "name": "サンヴァリエ桜堤",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "597",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5970.html"
+  },
+  {
+    "name": "新川・島屋敷通り",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "536",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5360.html"
+  },
+  {
+    "name": "シティコート下連雀",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "557",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5570.html"
+  },
+  {
+    "name": "シティハイツ吉祥寺通り",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "658",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6580.html"
+  },
+  {
+    "name": "三鷹台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "660",
+    "shikibetu": "1",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6601.html"
+  },
+  {
+    "name": "牟礼",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "669",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6690.html"
+  },
+  {
+    "name": "車返",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "270",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2700.html"
+  },
+  {
+    "name": "グリーンハイツ車返南",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "445",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4450.html"
+  },
+  {
+    "name": "府中グリーンハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "501",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5010.html"
+  },
+  {
+    "name": "昭島つつじが丘ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "338",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3380.html"
+  },
+  {
+    "name": "コンフォール拝島",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "552",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5520.html"
+  },
+  {
+    "name": "コンフォール東中神",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "723",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7230.html"
+  },
+  {
+    "name": "神代",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "132",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1320.html"
+  },
+  {
+    "name": "深大寺町",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "243",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2430.html"
+  },
+  {
+    "name": "神代（59号棟）",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "417",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4170.html"
+  },
+  {
+    "name": "シティハイツ調布小島町",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "516",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5160.html"
+  },
+  {
+    "name": "ココスクエア国領",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "630",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6300.html"
+  },
+  {
+    "name": "ライフタウン国領",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "659",
+    "shikibetu": "1",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6591.html"
+  },
+  {
+    "name": "鶴川",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "163",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1630.html"
+  },
+  {
+    "name": "町田山崎",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "167",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1670.html"
+  },
+  {
+    "name": "藤の台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "193",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1930.html"
+  },
+  {
+    "name": "成瀬駅前ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "329",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3290.html"
+  },
+  {
+    "name": "ニュータウン小山田桜台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "360",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3600.html"
+  },
+  {
+    "name": "町田もみじ台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "446",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4460.html"
+  },
+  {
+    "name": "プラザ新小金井",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "514",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5140.html"
+  },
+  {
+    "name": "グリーンタウン小金井",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "627",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6270.html"
+  },
+  {
+    "name": "小平",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "129",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1290.html"
+  },
+  {
+    "name": "小平駅南口",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "177",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1770.html"
+  },
+  {
+    "name": "萩山",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "242",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2420.html"
+  },
+  {
+    "name": "高幡台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "197",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1970.html"
+  },
+  {
+    "name": "日野大久保",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "293",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2930.html"
+  },
+  {
+    "name": "シティハイツ日野旭が丘",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "436",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4360.html"
+  },
+  {
+    "name": "多摩平の森",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "651",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6510.html"
+  },
+  {
+    "name": "南台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "102",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1020.html"
+  },
+  {
+    "name": "富士見台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "385",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3850.html"
+  },
+  {
+    "name": "南台第二",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "427",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4270.html"
+  },
+  {
+    "name": "エステート富士見台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "496",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4960.html"
+  },
+  {
+    "name": "グリーンタウン美住一番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "505",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5050.html"
+  },
+  {
+    "name": "西国分寺ゆかり壱番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "540",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5400.html"
+  },
+  {
+    "name": "西国分寺ゆかり四番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "599",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5990.html"
+  },
+  {
+    "name": "西国分寺ゆかり参番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "636",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6360.html"
+  },
+  {
+    "name": "西国分寺ライフタワー",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "696",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6960.html"
+  },
+  {
+    "name": "国立富士見台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "135",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1350.html"
+  },
+  {
+    "name": "国立富士見台（36号棟）",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "135",
+    "shikibetu": "1",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1351.html"
+  },
+  {
+    "name": "いちょう並木国立",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "577",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5770.html"
+  },
+  {
+    "name": "福生",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "252",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2520.html"
+  },
+  {
+    "name": "狛江セントラルハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "390",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3900.html"
+  },
+  {
+    "name": "清瀬旭が丘",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "158",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1580.html"
+  },
+  {
+    "name": "清瀬旭が丘第二",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "361",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3610.html"
+  },
+  {
+    "name": "清瀬駅前ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "399",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3990.html"
+  },
+  {
+    "name": "ひばりが丘",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "046",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_0460.html"
+  },
+  {
+    "name": "滝山",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "173",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1730.html"
+  },
+  {
+    "name": "滝山東",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "411",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4110.html"
+  },
+  {
+    "name": "グリーンヒルズ東久留米",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "688",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6880.html"
+  },
+  {
+    "name": "エステート大南公園",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "413",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4130.html"
+  },
+  {
+    "name": "百草",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "187",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1870.html"
+  },
+  {
+    "name": "多摩ニュータウン 諏訪（グリーンメゾン諏訪－２）",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "206",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2060.html"
+  },
+  {
+    "name": "多摩ニュータウン 永山（永山二丁目）",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "207",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2070.html"
+  },
+  {
+    "name": "多摩ニュータウン 貝取",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "269",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2690.html"
+  },
+  {
+    "name": "多摩ニュータウン 豊ヶ丘（グリーンメゾン豊ヶ丘－６）",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "271",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2710.html"
+  },
+  {
+    "name": "多摩ニュータウン エステート鶴牧‐５",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "341",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3410.html"
+  },
+  {
+    "name": "多摩ニュータウン エステート貝取‐１",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "344",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3440.html"
+  },
+  {
+    "name": "多摩ニュータウン 落合六丁目ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "366",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3660.html"
+  },
+  {
+    "name": "多摩ニュータウン エステート聖ヶ丘‐２",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "379",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3790.html"
+  },
+  {
+    "name": "多摩ニュータウン 諏訪一丁目ハイツ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "383",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3830.html"
+  },
+  {
+    "name": "多摩ニュータウン メゾン聖ヶ丘－１",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "407",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4070.html"
+  },
+  {
+    "name": "多摩ニュータウン グリーンヒル豊ヶ丘－１・２",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "409",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4090.html"
+  },
+  {
+    "name": "多摩ニュータウン ライフステージ豊ヶ丘－１",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "433",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4330.html"
+  },
+  {
+    "name": "多摩ニュータウン プラザ永山",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "474",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4740.html"
+  },
+  {
+    "name": "多摩ニュータウン エステート愛宕",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "509",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5090.html"
+  },
+  {
+    "name": "多摩ニュータウン ステラ聖ヶ丘",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "553",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5530.html"
+  },
+  {
+    "name": "聖蹟桜ヶ丘ビュータワー",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "595",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5950.html"
+  },
+  {
+    "name": "多摩ニュータウン コンフォール諏訪",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "724",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7240.html"
+  },
+  {
+    "name": "多摩ニュータウン ファインヒルいなぎ リベレ向陽台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "419",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4190.html"
+  },
+  {
+    "name": "多摩ニュータウン ファインヒルいなぎ ビュープラザ向陽台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "450",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4500.html"
+  },
+  {
+    "name": "多摩ニュータウン ファインヒルいなぎ ビスタノーレ向陽台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "484",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4840.html"
+  },
+  {
+    "name": "多摩ニュータウン ファインヒルいなぎ 長峰・杜の一番街",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "529",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5290.html"
+  },
+  {
+    "name": "多摩ニュータウン ファインヒルいなぎ ビューコート若葉台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "591",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5910.html"
+  },
+  {
+    "name": "羽村",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "227",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2270.html"
+  },
+  {
+    "name": "東伏見（６１号棟）",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "031",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_0310.html"
+  },
+  {
+    "name": "パークサイド田無向台",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "388",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3880.html"
+  },
+  {
+    "name": "新柳沢",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "490",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4900.html"
+  },
+  {
+    "name": "グリーンハイツ武蔵境通り",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "521",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5210.html"
+  },
+  {
+    "name": "プロムナード東伏見",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "549",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5490.html"
+  },
+  {
+    "name": "グリーンプラザひばりが丘南",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "632",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6320.html"
+  },
+  {
+    "name": "ひばりが丘パークヒルズ",
+    "pref": "tokyo",
+    "shisya": "20",
+    "danchi": "677",
+    "shikibetu": "1",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6771.html"
+  },
+  {
+    "name": "川崎日進",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "183",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1830.html"
+  },
+  {
+    "name": "サンスクエア川崎",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "219",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2190.html"
+  },
+  {
+    "name": "川崎旭町ハイツ",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "260",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2600.html"
+  },
+  {
+    "name": "コンフォール川崎富士見",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "412",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4120.html"
+  },
+  {
+    "name": "ミラリオ大師河原",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "420",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4200.html"
+  },
+  {
+    "name": "かわさきテクノピア堀川町ハイツ",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "248",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2480.html"
+  },
+  {
+    "name": "アーベインビオ川崎",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "402",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4020.html"
+  },
+  {
+    "name": "小杉御殿",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "266",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2660.html"
+  },
+  {
+    "name": "木月住吉",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "302",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3020.html"
+  },
+  {
+    "name": "シティコート元住吉",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "341",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3410.html"
+  },
+  {
+    "name": "子母口",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "135",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1350.html"
+  },
+  {
+    "name": "アーバンハイツみぞのくち",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "310",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3100.html"
+  },
+  {
+    "name": "星が丘パークランド つぐみ台",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "226",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2260.html"
+  },
+  {
+    "name": "星が丘パークランド ひよどり台",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "241",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2410.html"
+  },
+  {
+    "name": "星が丘パークランド ほおじろ台",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "265",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2650.html"
+  },
+  {
+    "name": "コンフォール菅仙谷",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "406",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4060.html"
+  },
+  {
+    "name": "アーバンハイツ菅生ヶ丘",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "322",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3220.html"
+  },
+  {
+    "name": "コンフォール生田菅生ヶ丘",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "370",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3700.html"
+  },
+  {
+    "name": "虹ヶ丘",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "171",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1710.html"
+  },
+  {
+    "name": "サンラフレ百合ヶ丘",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "350",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3500.html"
+  },
+  {
+    "name": "百合ヶ丘みずき街",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "419",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4190.html"
+  },
+  {
+    "name": "鶴見町",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "151",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1510.html"
+  },
+  {
+    "name": "鶴見町第二",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "177",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1770.html"
+  },
+  {
+    "name": "ステラ月見ヶ丘",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "340",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3400.html"
+  },
+  {
+    "name": "ミラリオ鶴見小野",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "410",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4100.html"
+  },
+  {
+    "name": "西菅田",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "145",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450.html"
+  },
+  {
+    "name": "南神大寺",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "162",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1620.html"
+  },
+  {
+    "name": "アルテ横浜",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "299",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2990.html"
+  },
+  {
+    "name": "コンフォール西寺尾",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "309",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3090.html"
+  },
+  {
+    "name": "ヨコハマポートサイドロア弐番館",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "319",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3190.html"
+  },
+  {
+    "name": "コンフォール高島台",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "360",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3600.html"
+  },
+  {
+    "name": "コンフォール北原",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "395",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3950.html"
+  },
+  {
+    "name": "オルトヨコハマ ビュータワー",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "401",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4010.html"
+  },
+  {
+    "name": "リーデンスフォート横浜",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "404",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4040.html"
+  },
+  {
+    "name": "アミティ横浜",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "414",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4140.html"
+  },
+  {
+    "name": "菊名池",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "052",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_0520.html"
+  },
+  {
+    "name": "サンヴァリエ日吉",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "329",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3290.html"
+  },
+  {
+    "name": "コンフォール南日吉",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "405",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4050.html"
+  },
+  {
+    "name": "コンフォール篠原",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "413",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4130.html"
+  },
+  {
+    "name": "霧が丘グリーンタウン",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "203",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2030.html"
+  },
+  {
+    "name": "中山駅前ハイツ",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "227",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2270.html"
+  },
+  {
+    "name": "十日市場ヒルタウン コンフォール十日市場五番街",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "378",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3780.html"
+  },
+  {
+    "name": "十日市場ヒルタウン コンフォール十日市場七番街",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "390",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3900.html"
+  },
+  {
+    "name": "十日市場ヒルタウン コンフォール十日市場六番街",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "393",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3930.html"
+  },
+  {
+    "name": "十日市場ヒルタウン コンフォール十日市場十四番街",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "408",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4080.html"
+  },
+  {
+    "name": "十日市場ヒルタウン コンフォール十日市場九番街",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "418",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4180.html"
+  },
+  {
+    "name": "十日市場ヒルタウンコンフォール十日市場十一番街",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "423",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4230.html"
+  },
+  {
+    "name": "青葉台",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "113",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1130.html"
+  },
+  {
+    "name": "奈良北",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "141",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1410.html"
+  },
+  {
+    "name": "すすき野",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "165",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1650.html"
+  },
+  {
+    "name": "グリーンヒル鴨志田中央",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "288",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2880.html"
+  },
+  {
+    "name": "あおば山の手台ヴェルディール奈良",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "358",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3580.html"
+  },
+  {
+    "name": "港北ニュータウン さるびあ第一",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "224",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2240.html"
+  },
+  {
+    "name": "港北ニュータウン さるびあ第二",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "225",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2250.html"
+  },
+  {
+    "name": "港北ニュータウン ろべりあハイツ",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "231",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2310.html"
+  },
+  {
+    "name": "港北ニュータウン メゾンふじのき台",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "264",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2640.html"
+  },
+  {
+    "name": "港北ニュータウン サントゥール中川",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "269",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2690.html"
+  },
+  {
+    "name": "港北ニュータウン ビュープラザセンター北",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "307",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3070.html"
+  },
+  {
+    "name": "港北ニュータウン コンフォール東山田",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "308",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3080.html"
+  },
+  {
+    "name": "港北ニュータウン プロムナード仲町台",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "334",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3340.html"
+  },
+  {
+    "name": "港北ニュータウン 山田富士公園ハイツ",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "342",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3420.html"
+  },
+  {
+    "name": "港北ニュータウン コンフォールセンター南",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "376",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3760.html"
+  },
+  {
+    "name": "港北ニュータウン コンフォール仲町台",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "381",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3810.html"
+  },
+  {
+    "name": "港北ニュータウン コンフォール城山の丘",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "383",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3830.html"
+  },
+  {
+    "name": "コンフォール鴨池公園",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "416",
+    "shikibetu": "1",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4161.html"
+  },
+  {
+    "name": "横浜ヴェールタワー",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "427",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4270.html"
+  },
+  {
+    "name": "海岸通四丁目",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "133",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1330.html"
+  },
+  {
+    "name": "本郷町",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "161",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1610.html"
+  },
+  {
+    "name": "モアレ山田町",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "274",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2740.html"
+  },
+  {
+    "name": "ベイサイト本牧－Ⅰ",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "275",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2750.html"
+  },
+  {
+    "name": "ベイサイト本牧－Ⅱ",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "276",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2760.html"
+  },
+  {
+    "name": "新山下ベイシティ",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "278",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2780.html"
+  },
+  {
+    "name": "ビューコート小港",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "331",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3310.html"
+  },
+  {
+    "name": "アーベインルネス長者町",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "352",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3520.html"
+  },
+  {
+    "name": "ベイサイト本牧－Ⅲ",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "372",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3720.html"
+  },
+  {
+    "name": "横浜山手コンフォール滝ノ上",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "379",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3790.html"
+  },
+  {
+    "name": "ベイシティ本牧南",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "382",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3820.html"
+  },
+  {
+    "name": "プロムナード本牧",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "407",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4070.html"
+  },
+  {
+    "name": "シティコート山下公園",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "411",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4110.html"
+  },
+  {
+    "name": "アクティ横浜山下町",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "421",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4210.html"
+  },
+  {
+    "name": "シャレール海岸通",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "425",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4250.html"
+  },
+  {
+    "name": "くぬぎ台",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "142",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1420.html"
+  },
+  {
+    "name": "峰沢町",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "154",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1540.html"
+  },
+  {
+    "name": "天王町",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "175",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1750.html"
+  },
+  {
+    "name": "保土ヶ谷駅前ハイツ",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "205",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2050.html"
+  },
+  {
+    "name": "西久保町公園ハイツ",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "246",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2460.html"
+  },
+  {
+    "name": "ビューコート仏向",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "284",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2840.html"
+  },
+  {
+    "name": "くぬぎ台‐Ⅱ",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "286",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2860.html"
+  },
+  {
+    "name": "コンフォール明神台",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "400",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4000.html"
+  },
+  {
+    "name": "コンフォール仏向町",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "422",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4220.html"
+  },
+  {
+    "name": "左近山",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "118",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1180.html"
+  },
+  {
+    "name": "西ひかりが丘",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "132",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1320.html"
+  },
+  {
+    "name": "左近山第三",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "301",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3010.html"
+  },
+  {
+    "name": "アーバンドエル瀬谷",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "385",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3850.html"
+  },
+  {
+    "name": "蒔田",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "093",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_0930.html"
+  },
+  {
+    "name": "睦町",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "112",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1120.html"
+  },
+  {
+    "name": "井土ヶ谷東",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "136",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1360.html"
+  },
+  {
+    "name": "南太田",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "137",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1370.html"
+  },
+  {
+    "name": "南永田",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "163",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1630.html"
+  },
+  {
+    "name": "南永田第二",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "187",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1870.html"
+  },
+  {
+    "name": "コンフォール永田東",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "388",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3880.html"
+  },
+  {
+    "name": "コンフォール清水ヶ丘",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "392",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3920.html"
+  },
+  {
+    "name": "洋光台北",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "129",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1290.html"
+  },
+  {
+    "name": "洋光台中央",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "130",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1300.html"
+  },
+  {
+    "name": "磯子三丁目",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "148",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1480.html"
+  },
+  {
+    "name": "洋光台西",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "168",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1680.html"
+  },
+  {
+    "name": "磯子杉田台",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "262",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2620.html"
+  },
+  {
+    "name": "磯子杉田台Ⅱ",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "394",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3940.html"
+  },
+  {
+    "name": "洋光台北（1-11号棟）",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "426",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4260.html"
+  },
+  {
+    "name": "金沢文庫第四",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "122",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1220.html"
+  },
+  {
+    "name": "金沢シーサイドタウン 並木一丁目第一",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "186",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1860.html"
+  },
+  {
+    "name": "金沢シーサイドタウン 並木一丁目第二",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "199",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1990.html"
+  },
+  {
+    "name": "金沢シーサイドタウン 並木二丁目",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "204",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2040.html"
+  },
+  {
+    "name": "金沢シーサイドタウン 並木三丁目",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "206",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2060.html"
+  },
+  {
+    "name": "金沢シーサイドタウン 柴",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "250",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2500.html"
+  },
+  {
+    "name": "ビーコンヒル能見台ウエストヒル",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "326",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3260.html"
+  },
+  {
+    "name": "ビーコンヒル能見台サウスヒル",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "389",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3890.html"
+  },
+  {
+    "name": "ビーコンヒル能見台イーストプラザ",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "397",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3970.html"
+  },
+  {
+    "name": "前田町",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "174",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1740.html"
+  },
+  {
+    "name": "グリーンメゾン平戸",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "212",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2120.html"
+  },
+  {
+    "name": "東戸塚ビューハイツ",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "295",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2950.html"
+  },
+  {
+    "name": "コンフォール上倉田",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "312",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3120.html"
+  },
+  {
+    "name": "プロムナード矢部",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "361",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3610.html"
+  },
+  {
+    "name": "コンフォール小松ヶ丘",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "409",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4090.html"
+  },
+  {
+    "name": "港南台ちどり",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "166",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1660.html"
+  },
+  {
+    "name": "港南台かもめ",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "172",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1720.html"
+  },
+  {
+    "name": "公田町",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "094",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_0940.html"
+  },
+  {
+    "name": "飯島",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "117",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1170.html"
+  },
+  {
+    "name": "本郷台駅前",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "160",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1600.html"
+  },
+  {
+    "name": "橋本四丁目",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "184",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1840.html"
+  },
+  {
+    "name": "アーベイン相模原駅前",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "368",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3680.html"
+  },
+  {
+    "name": "コンフォール相模原共和",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "386",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3860.html"
+  },
+  {
+    "name": "相模台",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "108",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1080.html"
+  },
+  {
+    "name": "ロビーシティ相模大野五番街",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "232",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2320.html"
+  },
+  {
+    "name": "グリーンスクエア大野台",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "251",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2510.html"
+  },
+  {
+    "name": "プラザシティ相模大野",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "298",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2980.html"
+  },
+  {
+    "name": "鶴ヶ丘",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "338",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3380.html"
+  },
+  {
+    "name": "コンフォールさがみ南",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "387",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3870.html"
+  },
+  {
+    "name": "コンフォール相模上原",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "417",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4170.html"
+  },
+  {
+    "name": "下大槻",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "150",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1500.html"
+  },
+  {
+    "name": "鳶尾",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "179",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1790.html"
+  },
+  {
+    "name": "テラス長谷",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "220",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2200.html"
+  },
+  {
+    "name": "上和田",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "124",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1240.html"
+  },
+  {
+    "name": "コンフォール鶴間ライラック通り",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "384",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3840.html"
+  },
+  {
+    "name": "えびな",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "190",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1900.html"
+  },
+  {
+    "name": "さがみ野さくら",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "243",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2430.html"
+  },
+  {
+    "name": "コンフォール横須賀本町",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "380",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3800.html"
+  },
+  {
+    "name": "ウェルシティ横須賀ポートバレーヌ４番館",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "396",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3960.html"
+  },
+  {
+    "name": "ベイスクエアよこすか〈三番館〉",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "399",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3990.html"
+  },
+  {
+    "name": "サンヴァリエ平塚",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "178",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1780.html"
+  },
+  {
+    "name": "サニーメゾン平塚",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "211",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2110.html"
+  },
+  {
+    "name": "コンフォール平塚",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "366",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3660.html"
+  },
+  {
+    "name": "レーベンスガルテン山崎",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "398",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3980.html"
+  },
+  {
+    "name": "辻堂",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "096",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_0960.html"
+  },
+  {
+    "name": "善行",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "104",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1040.html"
+  },
+  {
+    "name": "辻堂駅前ハイツ",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "247",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2470.html"
+  },
+  {
+    "name": "善行第二",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "257",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2570.html"
+  },
+  {
+    "name": "善行第三",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "268",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2680.html"
+  },
+  {
+    "name": "善行第四",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "283",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2830.html"
+  },
+  {
+    "name": "湘南ライフタウンパークサイド駒寄",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "287",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2870.html"
+  },
+  {
+    "name": "コンフォール藤沢",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "403",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4030.html"
+  },
+  {
+    "name": "浜見平",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "097",
+    "shikibetu": "1",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_0971.html"
+  },
+  {
+    "name": "鶴が台",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "116",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1160.html"
+  },
+  {
+    "name": "ラ・ヴェール茅ヶ崎鶴が台",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "282",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2820.html"
+  },
+  {
+    "name": "ライトタウン茅ヶ崎",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "293",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_2930.html"
+  },
+  {
+    "name": "コンフォール茅ヶ崎浜見平",
+    "pref": "kanagawa",
+    "shisya": "40",
+    "danchi": "424",
+    "shikibetu": "0",
+    "url": "https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4240.html"
+  }
+]
