@@ -14,6 +14,7 @@ since it doesn't change — it's only fetched the first time a given
 property shows a new vacancy, not on every run for all 474 properties.
 """
 
+import html as html_module
 import json
 import os
 import re
@@ -37,6 +38,7 @@ STATIC_CACHE_FILE = HERE / "property_static.json"
 
 # Optional filters — edit these to narrow what triggers a notification.
 # Leave empty / None to disable a filter.
+PREFECTURES = ["tokyo", "kanagawa"]  # e.g. ["kanagawa"] for Kanagawa only
 MADORI_WHITELIST = []       # e.g. ["1LDK", "2DK", "2LDK"] — empty = any layout
 MAX_RENT_YEN = None         # e.g. 150000 — empty = no cap
 REQUEST_DELAY_SEC = 0.4     # be polite to UR's servers between requests
@@ -45,6 +47,17 @@ PROGRESS_EVERY = 25         # print a progress line every N properties checked
 ADDRESS_KEY_HINTS = ["address", "syozai", "addr", "place", "location"]
 STATION_KEY_HINTS = ["traffic", "eki", "station", "access", "kotsu"]
 PET_KEYWORDS = ["ペット可", "ペット共生", "ペット飼育可"]
+
+
+def clean_text(value):
+    """UR's API returns some fields as raw HTML (entities like &#13217;
+    for ㎡, and stray tags like <li>...</li>). Decode entities and strip
+    tags so the plain-text email reads correctly."""
+    if not value:
+        return value
+    value = html_module.unescape(value)
+    value = re.sub(r"<[^>]+>", "", value)
+    return value.strip()
 
 
 def load_json(path, default):
@@ -61,7 +74,8 @@ def save_json(path, data):
 
 def load_properties():
     with open(PROPERTIES_FILE, encoding="utf-8") as f:
-        return json.load(f)
+        props = json.load(f)
+    return [p for p in props if p["pref"] in PREFECTURES]
 
 
 _FAILED = object()  # sentinel distinct from a legitimate JSON `null` response
@@ -151,8 +165,8 @@ def fetch_property_static(session, prop):
 
     combined = {"bukken": bukken_data, "design": design_data}
     return {
-        "address": extract_address(combined) or "(see listing link)",
-        "station": extract_station(combined) or "(see listing link)",
+        "address": clean_text(extract_address(combined)) or "(see listing link)",
+        "station": clean_text(extract_station(combined)) or "(see listing link)",
         "pet_friendly": extract_pet_friendly(combined),
     }
 
@@ -184,7 +198,7 @@ def send_email(subject, body):
     host = os.environ["SMTP_HOST"]
     port = int(os.environ.get("SMTP_PORT") or "587")
     user = os.environ["SMTP_USER"]
-    password = "".join(os.environ["SMTP_PASS"].split())
+    password = os.environ["SMTP_PASS"]
     to_addrs = [a.strip() for a in re.split(r"[,\n]+", os.environ.get("NOTIFY_TO") or user) if a.strip()]
 
     msg = MIMEText(body, "plain", "utf-8")
@@ -206,10 +220,10 @@ def format_entry(prop, room, static_info):
         f"  Address:   {static_info['address']}\n"
         f"  Station:   {static_info['station']}\n"
         f"  Pet policy:{pet}\n"
-        f"  Room type: {room.get('type', '?')}\n"
-        f"  Size:      {room.get('floorspace', '?')}\n"
-        f"  Rent:      {room.get('rent', '?')} (common fee {room.get('commonfee', '?')})\n"
-        f"  Floor:     {room.get('floor', '?')}\n"
+        f"  Room type: {clean_text(room.get('type')) or '?'}\n"
+        f"  Size:      {clean_text(room.get('floorspace')) or '?'}\n"
+        f"  Rent:      {clean_text(room.get('rent')) or '?'} (common fee {clean_text(room.get('commonfee')) or '?'})\n"
+        f"  Floor:     {clean_text(room.get('floor')) or '?'}\n"
         f"  Listing:   {prop['url']}\n"
     )
 
