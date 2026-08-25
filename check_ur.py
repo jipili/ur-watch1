@@ -12,18 +12,6 @@ which this script rewrites on every run. Property-level static info
 (address/station/pet policy) is cached forever in property_static.json
 since it doesn't change — it's only fetched the first time a given
 property shows a new vacancy, not on every run for all 474 properties.
-
-Both JSON files are committed back to the repo by the GitHub Actions
-workflow so state/cache survive between runs.
-
-NOTE on data reliability: the vacancy endpoint (detail_bukken_room) is
-well understood and documented at https://duongnt.com/urchintai-api/.
-The property-detail endpoints used here for address/station/pet policy
-are NOT publicly documented — this script calls them and parses the
-response defensively (best-effort field matching), because UR doesn't
-publish a field reference. If a field can't be confidently extracted
-you'll see "(see listing link)" instead of a wrong value — the listing
-link in every email is always accurate and lets you confirm directly.
 """
 
 import json
@@ -37,7 +25,7 @@ from pathlib import Path
 
 import requests
 
-API_ROOT = "https://chintai.sumai.ur-net.go.jp/chintai/api/"
+API_ROOT = "https://chintai.r6.ur-net.go.jp/chintai/api/"
 ROOM_ENDPOINT = API_ROOT + "bukken/detail/detail_bukken_room/"
 BUKKEN_ENDPOINT = API_ROOT + "bukken/detail/detail_bukken_bukken/"
 DESIGN_ENDPOINT = API_ROOT + "bukken/detail/detail_bukken_design/"
@@ -52,6 +40,7 @@ STATIC_CACHE_FILE = HERE / "property_static.json"
 MADORI_WHITELIST = []       # e.g. ["1LDK", "2DK", "2LDK"] — empty = any layout
 MAX_RENT_YEN = None         # e.g. 150000 — empty = no cap
 REQUEST_DELAY_SEC = 0.4     # be polite to UR's servers between requests
+PROGRESS_EVERY = 25         # print a progress line every N properties checked
 
 ADDRESS_KEY_HINTS = ["address", "syozai", "addr", "place", "location"]
 STATION_KEY_HINTS = ["traffic", "eki", "station", "access", "kotsu"]
@@ -75,14 +64,17 @@ def load_properties():
         return json.load(f)
 
 
+_FAILED = object()  # sentinel distinct from a legitimate JSON `null` response
+
+
 def api_post(session, endpoint, payload):
     try:
         resp = session.post(endpoint, data=payload, timeout=15)
         resp.raise_for_status()
-        return resp.json()
+        return resp.json()  # may legitimately be None (JSON null) — that's fine
     except Exception as e:
         print(f"  ! request failed for {endpoint}: {e}", file=sys.stderr)
-        return None
+        return _FAILED
 
 
 def fetch_vacant_rooms(session, shisya, danchi, shikibetu):
@@ -97,15 +89,15 @@ def fetch_vacant_rooms(session, shisya, danchi, shikibetu):
         "pageIndex": "0",
     }
     data = api_post(session, ROOM_ENDPOINT, payload)
-    if data is None:
-        return None
-    return data or []
+    if data is _FAILED:
+        return None  # genuine request failure
+    return data or []  # JSON null (no vacancies) -> empty list
 
 
 def _walk_strings(obj):
-    """Yield every (key_path, string_value) pair found anywhere in a
-    nested dict/list, for heuristic field-matching against undocumented
-    API responses."""
+    """Yield every (key, string_value) pair found anywhere in a nested
+    dict/list, for heuristic field-matching against undocumented API
+    responses."""
     if isinstance(obj, dict):
         for k, v in obj.items():
             if isinstance(v, str) and v.strip():
@@ -121,8 +113,6 @@ def extract_address(blob):
         key_l = key.lower()
         if any(h in key_l for h in ADDRESS_KEY_HINTS):
             return val
-    # Fallback: look for a string that looks like a Japanese address
-    # (contains a prefecture/ward/city marker and isn't too long).
     for _, val in _walk_strings(blob):
         if len(val) < 60 and re.search(r"(都|道府|県).{0,20}(区|市|町|村)", val):
             return val
@@ -142,10 +132,7 @@ def extract_station(blob):
 
 def extract_pet_friendly(blob):
     text = json.dumps(blob, ensure_ascii=False)
-    for kw in PET_KEYWORDS:
-        if kw in text:
-            return True
-    return False
+    return any(kw in text for kw in PET_KEYWORDS)
 
 
 def fetch_property_static(session, prop):
@@ -191,12 +178,14 @@ def room_passes_filters(room):
         if rent_digits and int(rent_digits) > MAX_RENT_YEN:
             return False
     return True
+
+
 def send_email(subject, body):
     host = os.environ["SMTP_HOST"]
     port = int(os.environ.get("SMTP_PORT") or "587")
     user = os.environ["SMTP_USER"]
     password = os.environ["SMTP_PASS"]
-    to_addrs = [a.strip() for a in (os.environ.get("NOTIFY_TO") or user).split(",") if a.strip()]
+    to_addrs = [a.strip() for a in re.split(r"[,\n]+", os.environ.get("NOTIFY_TO") or user) if a.strip()]
 
     msg = MIMEText(body, "plain", "utf-8")
     msg["Subject"] = subject
@@ -207,6 +196,8 @@ def send_email(subject, body):
         server.starttls()
         server.login(user, password)
         server.sendmail(user, to_addrs, msg.as_string())
+
+
 def format_entry(prop, room, static_info):
     pref_label = "東京都" if prop["pref"] == "tokyo" else "神奈川県"
     pet = "Pet-friendly" if static_info["pet_friendly"] else "Not confirmed pet-friendly"
@@ -231,6 +222,7 @@ def main():
     newly_vacant = []  # list of (property, room) tuples
     checked = 0
     errors = 0
+    total = len(properties)
 
     session = requests.Session()
     session.headers.update({
@@ -238,44 +230,41 @@ def main():
         "Referer": "https://www.ur-net.go.jp/chintai/",
     })
 
-    for prop in properties:
+    print(f"Starting check of {total} properties...")
+
+    for i, prop in enumerate(properties, 1):
         key = f'{prop["shisya"]}_{prop["danchi"]}{prop["shikibetu"]}'
         rooms = fetch_vacant_rooms(session, prop["shisya"], prop["danchi"], prop["shikibetu"])
         time.sleep(REQUEST_DELAY_SEC)
 
         if rooms is None:
-            # Couldn't check this run — keep previous known state so we don't
-            # lose track of it, and don't treat it as "all vacancies gone".
             new_state[key] = state.get(key, [])
             errors += 1
-            continue
+        else:
+            checked += 1
+            prev_ids = set(state.get(key, []))
+            current_ids = set()
+            for room in rooms:
+                room_id = room.get("id")
+                if not room_id:
+                    continue
+                current_ids.add(room_id)
+                if room_id not in prev_ids and room_passes_filters(room):
+                    newly_vacant.append((prop, room))
+            new_state[key] = sorted(current_ids)
 
-        checked += 1
-        prev_ids = set(state.get(key, []))
-        current_ids = set()
-
-        for room in rooms:
-            room_id = room.get("id")
-            if not room_id:
-                continue
-            current_ids.add(room_id)
-            if room_id not in prev_ids and room_passes_filters(room):
-                newly_vacant.append((prop, room))
-
-        new_state[key] = sorted(current_ids)
+        if i % PROGRESS_EVERY == 0 or i == total:
+            print(f"  ...{i}/{total} checked ({errors} errors so far)")
 
     save_json(STATE_FILE, new_state)
 
-    print(f"Checked {checked}/{len(properties)} properties ({errors} errors).")
+    print(f"Done. Checked {checked}/{total} properties ({errors} errors).")
     print(f"Newly vacant rooms passing filters: {len(newly_vacant)}")
 
     if not newly_vacant:
         save_json(STATIC_CACHE_FILE, static_cache)
         return
 
-    # Only now do we fetch address/station/pet info — and only for the
-    # properties that actually have something new, using the cache so
-    # a property already looked up in a past run costs nothing extra.
     entries = []
     for prop, room in newly_vacant:
         static_info = get_property_static(session, prop, static_cache)
