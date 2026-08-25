@@ -191,26 +191,22 @@ def room_passes_filters(room):
         if rent_digits and int(rent_digits) > MAX_RENT_YEN:
             return False
     return True
-
-
 def send_email(subject, body):
     host = os.environ["SMTP_HOST"]
-    port = int(os.environ.get("SMTP_PORT", "587"))
+    port = int(os.environ.get("SMTP_PORT") or "587")
     user = os.environ["SMTP_USER"]
     password = os.environ["SMTP_PASS"]
-    to_addr = os.environ.get("NOTIFY_TO", user)
+    to_addrs = [a.strip() for a in (os.environ.get("NOTIFY_TO") or user).split(",") if a.strip()]
 
     msg = MIMEText(body, "plain", "utf-8")
     msg["Subject"] = subject
     msg["From"] = user
-    msg["To"] = to_addr
+    msg["To"] = ", ".join(to_addrs)
 
     with smtplib.SMTP(host, port) as server:
         server.starttls()
         server.login(user, password)
-        server.sendmail(user, [to_addr], msg.as_string())
-
-
+        server.sendmail(user, to_addrs, msg.as_string())
 def format_entry(prop, room, static_info):
     pref_label = "東京都" if prop["pref"] == "tokyo" else "神奈川県"
     pet = "Pet-friendly" if static_info["pet_friendly"] else "Not confirmed pet-friendly"
