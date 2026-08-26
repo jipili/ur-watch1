@@ -60,6 +60,14 @@ def clean_text(value):
     return value.strip()
 
 
+def parse_sqm(floorspace_text):
+    """Extract the leading numeric value from a size string like '44㎡'."""
+    if not floorspace_text:
+        return None
+    m = re.search(r"[\d.]+", floorspace_text)
+    return float(m.group()) if m else None
+
+
 def load_json(path, default):
     if path.exists():
         with open(path, encoding="utf-8") as f:
@@ -185,6 +193,9 @@ def get_property_static(session, prop, cache):
 
 
 def room_passes_filters(room):
+    """Global pre-filter applied before any per-recipient filtering —
+    leave MADORI_WHITELIST/MAX_RENT_YEN empty to skip this entirely and
+    let every recipient's own profile do all the filtering instead."""
     if MADORI_WHITELIST and room.get("type") not in MADORI_WHITELIST:
         return False
     if MAX_RENT_YEN is not None:
@@ -194,22 +205,79 @@ def room_passes_filters(room):
     return True
 
 
-def send_email(subject, body):
+def load_recipients():
+    """Each recipient can have their own filter profile. Set the
+    RECIPIENT_PROFILES secret to a JSON list like:
+
+    [
+      {"email": "person_a@gmail.com", "min_size_sqm": 60},
+      {"email": "person_b@gmail.com", "pet_friendly_only": true},
+      {"email": "person_c@gmail.com", "madori": ["1LDK", "2LDK"], "max_rent_yen": 150000},
+      {"email": "person_d@gmail.com"}
+    ]
+
+    Supported filter keys (all optional — omit a key to not filter on it):
+      min_size_sqm      — number, e.g. 60
+      max_rent_yen       — number, e.g. 150000
+      pet_friendly_only  — true/false
+      madori             — list of room types, e.g. ["1LDK", "2DK"]
+      prefectures        — list, e.g. ["kanagawa"]
+
+    If RECIPIENT_PROFILES isn't set, falls back to NOTIFY_TO with no
+    per-person filtering (everyone gets everything, as before)."""
+    raw = os.environ.get("RECIPIENT_PROFILES")
+    if raw:
+        try:
+            return json.loads(raw)
+        except Exception as e:
+            print(f"  ! couldn't parse RECIPIENT_PROFILES ({e}), falling back to NOTIFY_TO", file=sys.stderr)
+    user = os.environ["SMTP_USER"]
+    addrs = [a.strip() for a in re.split(r"[,\n]+", os.environ.get("NOTIFY_TO") or user) if a.strip()]
+    return [{"email": a} for a in addrs]
+
+
+def recipient_matches(recipient, prop, room, static_info):
+    min_size = recipient.get("min_size_sqm")
+    if min_size is not None:
+        sqm = parse_sqm(clean_text(room.get("floorspace")))
+        if sqm is None or sqm < min_size:
+            return False
+
+    if recipient.get("pet_friendly_only") and not static_info["pet_friendly"]:
+        return False
+
+    madori = recipient.get("madori")
+    if madori and clean_text(room.get("type")) not in madori:
+        return False
+
+    max_rent = recipient.get("max_rent_yen")
+    if max_rent is not None:
+        rent_digits = "".join(ch for ch in (room.get("rent") or "") if ch.isdigit())
+        if rent_digits and int(rent_digits) > max_rent:
+            return False
+
+    prefs = recipient.get("prefectures")
+    if prefs and prop["pref"] not in prefs:
+        return False
+
+    return True
+
+
+def send_email(to_addr, subject, body):
     host = os.environ["SMTP_HOST"]
     port = int(os.environ.get("SMTP_PORT") or "587")
     user = os.environ["SMTP_USER"]
     password = os.environ["SMTP_PASS"]
-    to_addrs = [a.strip() for a in re.split(r"[,\n]+", os.environ.get("NOTIFY_TO") or user) if a.strip()]
 
     msg = MIMEText(body, "plain", "utf-8")
     msg["Subject"] = subject
     msg["From"] = user
-    msg["To"] = ", ".join(to_addrs)
+    msg["To"] = to_addr
 
     with smtplib.SMTP(host, port) as server:
         server.starttls()
         server.login(user, password)
-        server.sendmail(user, to_addrs, msg.as_string())
+        server.sendmail(user, [to_addr], msg.as_string())
 
 
 def format_entry(prop, room, static_info):
@@ -278,22 +346,31 @@ def main():
         save_json(STATIC_CACHE_FILE, static_cache)
         return
 
-    entries = []
+    enriched = []  # (prop, room, static_info) — static info fetched once, shared across recipients
     for prop, room in newly_vacant:
         static_info = get_property_static(session, prop, static_cache)
-        entries.append(format_entry(prop, room, static_info))
+        enriched.append((prop, room, static_info))
 
     save_json(STATIC_CACHE_FILE, static_cache)
 
-    body = f"🆕 {len(newly_vacant)} new UR vacancy(ies) found:\n\n" + "\n".join(entries)
-    print(body)
+    recipients = load_recipients()
+    any_failed = False
 
-    try:
-        send_email(f"🆕 UR New Vacancies: {len(newly_vacant)} found", body)
-        print("Email sent.")
-    except Exception as e:
-        print(f"! Failed to send email: {e}", file=sys.stderr)
-        raise
+    for recipient in recipients:
+        matches = [(p, r, s) for p, r, s in enriched if recipient_matches(recipient, p, r, s)]
+        if not matches:
+            continue
+        entries = [format_entry(p, r, s) for p, r, s in matches]
+        body = f"🆕 {len(matches)} new UR vacancy(ies) found:\n\n" + "\n".join(entries)
+        try:
+            send_email(recipient["email"], f"🆕 UR New Vacancies: {len(matches)} found", body)
+            print(f"Email sent to {recipient['email']} ({len(matches)} matching listings).")
+        except Exception as e:
+            print(f"! Failed to send email to {recipient['email']}: {e}", file=sys.stderr)
+            any_failed = True
+
+    if any_failed:
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":
