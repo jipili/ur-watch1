@@ -1238,5 +1238,10 @@
     "address": "東京都調布市国領町3-1-38",
     "station": "京王線「国領」駅 徒歩1分",
     "pet_friendly": false
+  },
+  "40_3970": {
+    "address": "神奈川県横浜市金沢区能見台東1-1",
+    "station": "京急本線「能見台」駅 徒歩3分",
+    "pet_friendly": false
   }
 }
