@@ -1693,5 +1693,10 @@
     "address": "東京都北区神谷3-11-1",
     "station": "東京メトロ南北線「志茂」駅 徒歩4分",
     "pet_friendly": false
+  },
+  "40_2600": {
+    "address": "神奈川県川崎市川崎区旭町1-2-2ほか",
+    "station": "JR京浜東北線ほか「川崎」駅 徒歩15分",
+    "pet_friendly": false
   }
 }
